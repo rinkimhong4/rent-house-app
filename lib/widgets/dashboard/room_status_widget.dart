@@ -97,7 +97,7 @@ class RoomStatusWidget extends StatelessWidget {
       margin: const EdgeInsets.only(left: 16),
       padding: const EdgeInsets.all(8),
       decoration: BoxDecoration(
-        color: AppColors.primary,
+        color: AppColors.primary.withValues(alpha: 0.2),
         borderRadius: BorderRadius.circular(12),
       ),
       child: Text(
@@ -105,7 +105,7 @@ class RoomStatusWidget extends StatelessWidget {
         style: const TextStyle(
           fontSize: 16,
           fontWeight: FontWeight.w500,
-          color: Colors.amber,
+          color: AppColors.primary,
         ),
       ),
     );
