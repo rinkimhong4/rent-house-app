@@ -34,4 +34,62 @@ class Data {
       'color': AppColors.accent,
     },
   ];
+  static List<Map<String, dynamic>> tenantData = [
+    {
+      'name': 'John Doe',
+      'room': 'Room 101',
+      'profile_image': 'https://randomuser.me/api/portraits/men/1.jpg',
+      'phone': '096240669',
+      'movein_date': '2022-01-01',
+      'deposit': '2022-01-01',
+    },
+    {
+      'name': 'John Doe',
+      'room': 'Room 101',
+      'profile_image': 'https://randomuser.me/api/portraits/men/1.jpg',
+      'phone': '096240669',
+      'movein_date': '2022-01-01',
+      'deposit': '2022-01-01',
+    },
+    {
+      'name': 'John Doe',
+      'room': 'Room 101',
+      'profile_image': 'https://randomuser.me/api/portraits/men/1.jpg',
+      'phone': '096240669',
+      'movein_date': '2022-01-01',
+      'deposit': '2022-01-01',
+    },
+    {
+      'name': 'John Doe',
+      'room': 'Room 101',
+      'profile_image': 'https://randomuser.me/api/portraits/men/1.jpg',
+      'phone': '096240669',
+      'movein_date': '2022-01-01',
+      'deposit': '2022-01-01',
+    },
+    {
+      'name': 'John Doe',
+      'room': 'Room 101',
+      'profile_image': 'https://randomuser.me/api/portraits/men/1.jpg',
+      'phone': '096240669',
+      'movein_date': '2022-01-01',
+      'deposit': '2022-01-01',
+    },
+    {
+      'name': 'John Doe',
+      'room': 'Room 101',
+      'profile_image': 'https://randomuser.me/api/portraits/men/1.jpg',
+      'phone': '096240669',
+      'movein_date': '2022-01-01',
+      'deposit': '2022-01-01',
+    },
+    {
+      'name': 'John Doe',
+      'room': 'Room 101',
+      'profile_image': 'https://randomuser.me/api/portraits/men/1.jpg',
+      'phone': '096240669',
+      'movein_date': '2022-01-01',
+      'deposit': '2022-01-01',
+    },
+  ];
 }
